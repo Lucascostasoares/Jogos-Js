@@ -1,0 +1,19 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "httpserver --port 8000"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.17.0"
+  },
+  "devDependencies": {
+    "httpserver": "^0.3.0"
+  }
+}
